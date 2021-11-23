@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="help_main_title">
+        Приложение для заметок
+    </string>
+    <string name="help_main">
+        Вы можете нажать кнопку со значком + для добавления заметки
+        \nВы можете нажать кнопку со значком лупы для поиска по заголовку или описанию заметки
+        \nЗаметку можно удалить, нажав на ней кнопку с урной, копировать в буфер обмена кнопкой с двумя листками, изменить, нажав на саму заметку, или поделиться ею, нажав на кнопку с соответствующим значком
+    </string>
+    <string name="help_add_note_title">
+        Здесь вы можете добавить заметку
+    </string>
+    <string name="help_add_note">
+        Введите ее заголовок в верхнее поле "title", а описание - в нижнее "description", после чего нажмите кнопку "Add" для добавления ее к списку
+    </string>
+    <string name="developer_info_title">Zakharenko Valerij</string>
+    <string name="developer_info_university">Group 791051</string>
+    <string name="developer_info_links">https://github.com/ikonvpalto</string>
+    <string name="close">Close</string>
+    <string name="developer">Developer</string>
+    <string name="add_note">Add Note</string>
+    <string name="search">Search</string>
+    <string name="help">Help</string>
+</resources>

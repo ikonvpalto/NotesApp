@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_developer_info"
+        android:icon="@drawable/ic_outline_info_24"
+        android:title="@string/developer"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/showHelp"
+        android:icon="@drawable/ic_baseline_support_24"
+        android:title="@string/help"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addNote"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="@string/add_note"
+        app:showAsAction="always"/>
+</menu>
